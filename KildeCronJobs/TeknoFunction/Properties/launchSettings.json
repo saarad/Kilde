@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TeknoFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7020",
+      "launchBrowser": false
+    }
+  }
+}
